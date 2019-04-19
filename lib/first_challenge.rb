@@ -22,7 +22,7 @@ def first_challenge
           end
             puts new_flavors
               end
-              end
+            end
           end
         end
   #remember to return your newly altered contacts hash!
