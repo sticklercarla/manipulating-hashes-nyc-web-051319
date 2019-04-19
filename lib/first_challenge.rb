@@ -19,7 +19,9 @@ def first_challenge
         value.each do |flavor|
           new_flavors = flavor.delete("strawberry")
             puts new_flavors
-
+                end
+              end
+          end
   #remember to return your newly altered contacts hash!
   contacts
 end
